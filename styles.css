@@ -57,3 +57,9 @@ nav {
     background-color: #5d3eff;
 }
 
+.personal__logo {
+    font-size: 24px;
+    color: #6030b1;
+    margin: 0 12px;
+    font-weight: bold; 
+}
