@@ -142,3 +142,9 @@ nav {
   text-decoration: none;
   padding: 0 16px;
 }
+
+.about-me__img--container {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
