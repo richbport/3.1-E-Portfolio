@@ -171,3 +171,12 @@ nav {
   width: 100%;
   max-width: 100px;
 }
+
+.language {
+  width: 25%;
+}
+
+.language__list {
+  display: flex;
+  width: 100%;
+}
