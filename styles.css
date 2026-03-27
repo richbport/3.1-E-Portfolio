@@ -181,6 +181,8 @@ nav {
 
 .language {
   width: 25%;
+  display: flex;
+  justify-content: center;
 }
 
 .language__img--wrapper {
@@ -194,4 +196,8 @@ nav {
   display: flex;
   width: 100%;
   flex-wrap: wrap;
+}
+
+.language__name {
+  position: absolute;
 }
