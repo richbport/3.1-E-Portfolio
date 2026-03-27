@@ -180,9 +180,11 @@ nav {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 24px 16px;
 }
 
 .language__list {
   display: flex;
   width: 100%;
+  flex-wrap: wrap;
 }
