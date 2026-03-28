@@ -229,3 +229,7 @@ nav {
   border-radius: 20px;
   overflow: hidden;
 }
+
+.project__wrapper.before {
+  content: "";
+}
