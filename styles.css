@@ -230,6 +230,6 @@ nav {
   overflow: hidden;
 }
 
-.project__wrapper.before {
+.project__wrapper:before {
   content: "";
 }
