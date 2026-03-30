@@ -240,6 +240,7 @@ nav {
   width: 100%;
   background-color: #1c1d25;
   opacity: 0;
+  transition: opacity 450ms ease;
 }
 
 .project:hover .project__wrapper:before {
