@@ -220,7 +220,11 @@ nav {
 /* PROJECTS */
 
 .project {
-  margin-bottom: 56px;
+  margin-bottom: 136px;
+}
+
+.project:last-child {
+  margin-bottom: 40px;
 }
 
 .project__img {
