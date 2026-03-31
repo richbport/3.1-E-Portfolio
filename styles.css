@@ -262,9 +262,24 @@ nav {
   position: absolute;
   top: 50%;
   left: 90px;
-  transform: translateY(-50%)
+  transform: translateY(-50%);
   max-width: 550px;
+  z-index: 3;
 }
+
+.project__description--title {
+  font-size: 40px;
+}
+
+.project__description--para {
+  margin: 16px 0;
+}
+
+.project__description--link {
+  font-size: 20px;
+  
+}
+
 
 .project__description--title,
 .project__description--sub-title,
