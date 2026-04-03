@@ -330,6 +330,10 @@ footer {
   border-radius: 10px;
 }
 
+.footer__social--list {
+  margin-bottom: 20px;
+}
+
 .footer__social--link,
 .footer__copyright {
   color: #fff;
