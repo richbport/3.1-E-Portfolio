@@ -331,7 +331,10 @@ footer {
 }
 
 .footer__social--list {
-  margin-bottom: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 28px;
 }
 
 .footer__social--link,
