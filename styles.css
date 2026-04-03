@@ -23,7 +23,7 @@ p {
 }
 
 a {
-  text-decoration: none;
+  text-decoration: none; /* gets rid of any little underlines around the icon */
 }
 
 li {
@@ -80,7 +80,6 @@ nav {
 .nav__link--anchor {
     margin: 0 12px;
     color: #242424;
-    text-decoration: none;
     font-weight: 700;
 }
 
@@ -155,7 +154,6 @@ nav {
 .about-me__link {
   font-size: 20px;
   color: #242424;
-  text-decoration: none;
   padding: 0 16px;
 }
 
@@ -297,7 +295,6 @@ nav {
 .project__description--link {
   font-size: 20px;
   margin-right: 16px;
-  text-decoration: none; /* gets rid of any little underlines around the icon */
 }
 
 
