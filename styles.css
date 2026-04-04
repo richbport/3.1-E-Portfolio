@@ -347,6 +347,7 @@ footer {
 
 .footer__anchor:hover .footer__logo--popper {
   transform: translateX(60px);
+  opacity: 1;
 }
 
 .footer__logo--popper {
@@ -354,4 +355,5 @@ footer {
   right: 0;
   top: 30px;
   font-weight: 700;
+  opacity: 0;
  }
