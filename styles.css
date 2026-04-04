@@ -345,6 +345,10 @@ footer {
   margin-bottom: 20px;
 }
 
+.footer__anchor:hover .footer__logo--popper {
+  transform: translateX(60px);
+}
+
 .footer__logo--popper {
   position: absolute;
   right: 0;
