@@ -356,4 +356,5 @@ footer {
   top: 30px;
   font-weight: 700;
   opacity: 0;
+  transition: all 300ms ease;
  }
