@@ -36,9 +36,13 @@ a {
   position: absolute;
   height: 3px;
   background-color: black;
-  width: 100%;
+  width: 0;
   bottom: -3px;
   left: 0;
+}
+
+.link__hover-effect:hover:after {
+  width: 100%;
 }
 
 li {
