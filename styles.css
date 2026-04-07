@@ -75,6 +75,7 @@ li {
   width: 100%;
   max-width: 800px;
   margin: 0 auto;
+  padding: 0 16px;
 }
 
 .text--purple {
@@ -230,6 +231,7 @@ nav {
 
 .language__list {
   display: flex;
+  justify-content: center;
   width: 100%;
   flex-wrap: wrap;
 }
@@ -400,5 +402,9 @@ footer {
 
   .about-me__info--para {
     font-size: 18px;
+  }
+
+  .language {
+    width: calc(100% / 2);
   }
  }
