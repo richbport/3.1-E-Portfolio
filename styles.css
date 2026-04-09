@@ -434,6 +434,10 @@ footer {
     justify-content: center;
   }
   
+  .project__description--title {
+    line-height: 1;
+    font-size: 32px;
+  }
 
   .project__description--sub-title {
     text-align: center;
