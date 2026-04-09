@@ -433,4 +433,10 @@ footer {
     display: flex;
     justify-content: center;
   }
+  
+
+  .project__description--sub-title {
+    text-align: center;
+    margin: 12px 0;
+  }
 }
