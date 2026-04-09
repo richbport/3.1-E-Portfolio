@@ -428,4 +428,9 @@ footer {
   .project__description--para {
     display: none;
   }
+
+  .project__description--links {
+    display: flex;
+    justify-content: center;
+  }
 }
