@@ -425,6 +425,12 @@ footer {
     display: none;
   }
 
+  .project__description {
+    padding: 0; 
+    left: 0;
+    width: 100%;
+  }
+
   .project__description--para {
     display: none;
   }
